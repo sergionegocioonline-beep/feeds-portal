@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Feeds Portal - Ultimas Noticias</title>
+    <link>https://github.com/sergionegocioonline-beep/feeds-portal</link>
+    <description>Feed editorial com noticias processadas com triagem, reescrita fiel, SEO e checagem factual minima.</description>
+    <language>pt-BR</language>
+    <lastBuildDate>Tue, 21 Apr 2026 00:25:00 -0300</lastBuildDate>
+    <generator>Paperclip DIR-23 pipeline</generator>
+
+    <item>
+      <title>Cuba confirma reuniao em Havana com delegacao dos EUA e cobra fim de embargo energetico</title>
+      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/cuba-confirma-encontro-em-havana-com-delegacao-dos-eua</link>
+      <guid isPermaLink="true">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/cuba-confirma-encontro-em-havana-com-delegacao-dos-eua</guid>
+      <pubDate>Mon, 20 Apr 2026 20:32:00 -0300</pubDate>
+      <category>internacional</category>
+      <category>geografia:global</category>
+      <category>pais:cuba</category>
+      <description><![CDATA[Cuba confirmou uma reuniao recente em Havana com uma delegacao dos Estados Unidos. Segundo o Itamaraty cubano, a prioridade foi pedir o fim do embargo energetico, medida que Havana diz afetar o abastecimento e a vida cotidiana no pais.]]></description>
+      <content:encoded><![CDATA[
+        <p><strong>Resumo editorial:</strong> Autoridades cubanas confirmaram uma reuniao diplomatica em Havana com representantes dos EUA. O governo cubano afirmou que o foco principal foi exigir a suspensao do embargo energetico e defendeu dialogo com respeito a soberania.</p>
+        <p><strong>Checagem factual minima:</strong> Informacoes baseadas na publicacao original da Agencia Brasil, com declaracoes atribuidas ao Ministerio das Relacoes Exteriores de Cuba e ao presidente Miguel Diaz-Canel.</p>
+        <p><strong>Fonte primaria:</strong> <a href="https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/cuba-confirma-encontro-em-havana-com-delegacao-dos-eua">Agencia Brasil</a></p>
+        <p><strong>Timestamp da fonte:</strong> Mon, 20 Apr 2026 20:32:00 -0300</p>
+      ]]></content:encoded>
+    </item>
+  </channel>
+</rss>
